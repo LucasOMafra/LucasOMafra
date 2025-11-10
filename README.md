@@ -1,6 +1,6 @@
 # 👨🏻‍💻Lucas Mafra
 
-**`Desenvolvedor FullStack JS`**
+**`Desenvolvedor FullStack Javascript | Typescript | Backend | Java | Node.js | GO`**
 
 Olá mundo 🌍! Sou **Lucas Mafra**, 26 anos, de **São Paulo**. Formado em **Ciências Contábeis** e  cursando **Análise e Desenvolvimento de Sistemas** pela **Estácio**.
 Sou aluno da **Generation Brasil**, participante do **Bootcamp imersivo de 3 meses - Dev Fullstack em Javascript | Typescript**.
