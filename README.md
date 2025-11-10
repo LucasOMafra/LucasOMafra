@@ -3,8 +3,8 @@
 **`Desenvolvedor FullStack JS`**
 
 Olá mundo 🌍! Sou **Lucas Mafra**, 26 anos, de **São Paulo**. Formado em **Ciências Contábeis** e  cursando **Análise e Desenvolvimento de Sistemas** pela **Estácio**.
-Sou aluno da **Generation Brasil**, participante do **Bootcamp Fullstack em JavaScript**.
-Entusiasta por **tecnologia, aprendizado e desafios**, adoro transformar ideias em soluções reais com criatividade e lógica.
+Sou aluno da **Generation Brasil**, participante do **Bootcamp imersivo de 3 meses onde me tornarei apto a atuar como Dev Fullstack em Javascript|Typescript **.
+Entusiasta por **tecnologia, aprendizado e desafios**.
 
 Aqui você verá todos os projetos de codificação que foram desenvolvidos do zero, desde o planejamento e design até a resolução de problemas reais com código durante o Bootcamp da Generation indentificados como (PG - Projetos Genaration) e projetos pessoais meus identificados como (PP - Projetos Pessoais). 🚀
 
