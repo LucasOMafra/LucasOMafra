@@ -2,14 +2,14 @@
 
 **`PT-BR`**
 
-Olá mundo 🌍! Sou **Lucas Mafra**, 26 anos, de **São Paulo**. Formado em **Ciências Contábeis** e  cursando **Análise e Desenvolvimento de Sistemas** pela **Estácio**.
+Olá mundo 🌍! Sou **Lucas Mafra**, 26 anos, de **São Paulo**. Formado em **Ciências Contábeis** e  cursando **Análise e Desenvolvimento de Sistemas**.
 Sou aluno da **Generation Brasil**, participante do **Bootcamp imersivo de 3 meses - Dev Fullstack em Javascript | Typescript**.
 
 Entusiasta por **tecnologia, aprendizado e desafios**, aqui você verá todos os projetos de codificação que foram desenvolvidos do zero, desde o planejamento e design até a resolução de problemas reais com código durante o Bootcamp da Generation indentificados como (PG - Projetos Genaration) e projetos pessoais meus identificados como (PP - Projetos Pessoais). 🚀
 
 **`EN-US`**
 
-Hello world 🌍! I'm Lucas Mafra, 26 years old, from São Paulo. I have a degree in Accounting and am currently studying Systems Analysis and Development at Estácio. I'm a student at Generation Brasil, participating in the 3-month immersive Bootcamp - Fullstack Developer in Javascript | Typescript.
+Hello world 🌍! I'm Lucas Mafra, 26 years old, from São Paulo. I have a degree in Accounting and am currently studying Systems Analysis and Development. I'm a student at Generation Brasil, participating in the 3-month immersive Bootcamp - Fullstack Developer in Javascript | Typescript.
 
 Enthusiast for technology, learning, and challenges, here you'll see all the coding projects that were developed from scratch, from planning and design to solving real-world code problems during the Generation Bootcamp, identified as (PG - Generation Projects), and my personal projects identified as (PP - Personal Projects).
 
