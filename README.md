@@ -11,7 +11,7 @@ Entusiasta por **tecnologia, aprendizado e desafios**, aqui você verá todos os
 
 Hello world 🌍! I'm Lucas Mafra, 26 years old, from São Paulo. I have a degree in Accounting and am currently studying Systems Analysis and Development. I'm a student at Generation Brasil, participating in the 3-month immersive Bootcamp - Fullstack Developer in Javascript | Typescript.
 
-Enthusiast for technology, learning, and challenges, here you'll see all the coding projects that were developed from scratch, from planning and design to solving real-world code problems during the Generation Bootcamp, identified as (PG - Generation Projects), and my personal projects identified as (PP - Personal Projects).
+Enthusiast for technology, learning, and challenges, here you'll see all the coding projects that were developed from scratch, from planning and design to solving real-world code problems during the Generation Bootcamp, identified as (PG - Generation Projects), and my personal projects identified as (PP - Personal Projects). 🚀
 
 ---
 
