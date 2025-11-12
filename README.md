@@ -2,10 +2,7 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-# 🚀 Olá, eu sou o Lucas Mafra - Desenvolvedor de Software
-
-## Sobre mim
-
+## 🚀 Olá, eu sou o Lucas Mafra - Desenvolvedor de Software
 Formado em **Ciências Contábeis** e  cursando **Análise e Desenvolvimento de Sistemas**, sou aluno da **Generation Brasil**, participante do **Bootcamp imersivo de 3 meses - Fullstack em Javascript, Typescript**.
 
 Entusiasta por **tecnologia, aprendizado e desafios**, aqui você verá todos os projetos de codificação que foram desenvolvidos do zero, desde o planejamento e design até a resolução de problemas reais com código durante o Bootcamp da Generation indentificados como (PG - Projetos Genaration) e projetos pessoais meus identificados como (PP - Projetos Pessoais). 🚀 
