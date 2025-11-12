@@ -16,16 +16,16 @@ Entusiasta por **tecnologia, aprendizado e desafios**, aqui você verá todos os
     [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,java)](https://skillicons.dev)
 - Frameworks e Bibliotecas:     
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,angular,vue,next,express,nestjs)](https://skillicons.dev)
-- Dados: 
-
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
-
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,idea)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,angular,spring,vue,next,express,nestjs,node)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,idea)](https://skillicons.dev)
 ## Projetos Criativos
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores durante o Bootcamp:
