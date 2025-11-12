@@ -3,7 +3,7 @@
 </div>
 
 ## 🚀 Olá, eu sou o Lucas Mafra - Desenvolvedor de Software
-Formado em **Ciências Contábeis** e  cursando **Análise e Desenvolvimento de Sistemas**, sou aluno da **Generation Brasil**, participante do **Bootcamp imersivo de 3 meses - Fullstack em Javascript, Typescript**.
+Formado em **Ciências Contábeis** e em transição de carreira, trago minha experiência como auditor em grandes empresas, como BDO, Deloitte e Grupo Drogaria São Paulo, onde desenvolvi habilidades analíticas, pensamento lógico e visão estratégica de processos — competências que hoje aplico no desenvolvimento de soluções em tecnologia. cursando **Análise e Desenvolvimento de Sistemas**, sou aluno da **Generation Brasil**, participante do **Bootcamp imersivo de 3 meses - Fullstack em Javascript, Typescript**.
 
 Entusiasta por **tecnologia, aprendizado e desafios**, aqui você verá todos os projetos de codificação que foram desenvolvidos do zero, desde o planejamento e design até a resolução de problemas reais com código durante o Bootcamp da Generation indentificados como (PG - Projetos Genaration) e projetos pessoais meus identificados como (PP - Projetos Pessoais). 🚀 
 
