@@ -16,7 +16,7 @@ Entusiasta por **tecnologia, aprendizado e desafios**, aqui você verá todos os
     [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,java)](https://skillicons.dev)
 - Frameworks e Bibliotecas:     
 
-    [![My Skills](https://skillicons.dev/icons?i=react,angular,spring,vue,next,express,nestjs,node)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=angular,vue,next,express,nestjs,spring,react,node)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
