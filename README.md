@@ -1,120 +1,45 @@
-# 👨🏻‍💻Sobre mim | About me
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 
-**`pt-BR`**
+# 🚀 Olá, eu sou o Lucas Mafra - Desenvolvedor de Software
 
-Olá mundo 🌍! Sou **Lucas Mafra**, 26 anos, de **São Paulo**. Formado em **Ciências Contábeis** e  cursando **Análise e Desenvolvimento de Sistemas**.
-Sou aluno da **Generation Brasil**, participante do **Bootcamp imersivo de 3 meses - Dev Fullstack em Javascript | Typescript**.
+## Sobre mim
 
-Entusiasta por **tecnologia, aprendizado e desafios**, aqui você verá todos os projetos de codificação que foram desenvolvidos do zero, desde o planejamento e design até a resolução de problemas reais com código durante o Bootcamp da Generation indentificados como (PG - Projetos Genaration) e projetos pessoais meus identificados como (PP - Projetos Pessoais). 🚀
+Formado em **Ciências Contábeis** e  cursando **Análise e Desenvolvimento de Sistemas**, sou aluno da **Generation Brasil**, participante do **Bootcamp imersivo de 3 meses - Fullstack em Javascript, Typescript**.
 
-**`en-US`**
+Entusiasta por **tecnologia, aprendizado e desafios**, aqui você verá todos os projetos de codificação que foram desenvolvidos do zero, desde o planejamento e design até a resolução de problemas reais com código durante o Bootcamp da Generation indentificados como (PG - Projetos Genaration) e projetos pessoais meus identificados como (PP - Projetos Pessoais). 🚀 
 
-Hello world 🌍! I'm Lucas Mafra, 26 years old, from São Paulo. I have a degree in Accounting and am currently studying Systems Analysis and Development. I'm a student at Generation Brasil, participating in the 3-month immersive Bootcamp - Fullstack Developer in Javascript | Typescript.
+## Habilidades Tecnológicas
 
-Enthusiast for technology, learning, and challenges, here you'll see all the coding projects that were developed from scratch, from planning and design to solving real-world code problems during the Generation Bootcamp, identified as (PG - Generation Projects), and my personal projects identified as (PP - Personal Projects). 🚀
+💻 Aqui estão algumas das tecnologias que eu domino:
 
----
+-  Linguagens de Programação: 
 
-<p align="left">
-    <a href="https://github.com/LucasOMafra?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LucasOMafra?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LucasOMafra?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LucasOMafra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,java)](https://skillicons.dev)
+- Frameworks e Bibliotecas:     
 
----
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,angular,vue,next,express,nestjs)](https://skillicons.dev)
+- Dados: 
 
-### 🤖 Linguagens e Tecnologias
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,idea)](https://skillicons.dev)
+- Desenvolvimento Web:
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
+## Projetos Criativos
 
-<br/>
-<br/>
+🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores durante o Bootcamp:
 
-### 📊 Estatísticas
+1. [Projeto 1](https://github.com/LucasOMafra/pg-projeto-conta-bancaria): O Projeto Conta Bancária foi desenvolvido como base no aprendizado e aplicação dos conceitos de Programação Orientada a Objetos (POO). Ao longo do curso, o projeto receberá novas funcionalidades em cada etapa, servindo como preparação para o Projeto Final, que consolida todos os conhecimentos adquiridos no primeiro bloco.
 
+## Vamos criar algo incrível! 💫
+
+💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+
+ ## Estatísticas
 <p>
   <img 
     align="left" 
