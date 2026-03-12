@@ -1,4 +1,4 @@
-💻 **Full Stack Developer | Backend & Cloud Enthusiast**
+# 💻 **Full Stack Developer | Backend & Cloud Enthusiast**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em **desenvolvimento backend, APIs e cloud computing**.  
 Tenho formação prática pelo **Bootcamp da Generation Brasil (Full Stack)** e atualmente também estou em formação em **Cloud AWS pela Escola da Nuvem**.
@@ -89,5 +89,5 @@ Formação **AWS Cloud / Cloud Practitioner / AWS re:Start**
 
 # 🌎 Conecte-se comigo
 
-💼 LinkedIn  
+💼 LinkedIn: https://linkedin.com/in/lucasomafra
 🔗 GitHub: https://github.com/LucasOMafra
