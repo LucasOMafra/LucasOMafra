@@ -1,56 +1,95 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
-</div>
+# 👨‍💻 Lucas Mafra
 
-## 🚀 Olá, eu sou o Lucas Mafra - Desenvolvedor de Software
-Formado em Ciências Contábeis e em transição de carreira, trago minha experiência como auditor em grandes empresas, como BDO, Deloitte e Grupo Drogaria São Paulo, onde desenvolvi habilidades analíticas, pensamento lógico e visão estratégica de processos — competências que hoje aplico no desenvolvimento de soluções em tecnologia. Atualmente cursando Análise e Desenvolvimento de Sistemas pela Estácio, e também participando do programa da Generation Brasil, em um Bootcamp imersivo de 3 meses (das 08h as 17h) com foco em Desenvolvimento Fullstack utilizando JavaScript e TypeScript.
+💻 **Full Stack Developer | Backend & Cloud Enthusiast**
 
-Entusiasta por tecnologia, aprendizado e desafios, aqui você verá todos os projetos de codificação que foram desenvolvidos do zero, desde o planejamento e design até a resolução de problemas reais com código durante o Bootcamp da Generation indentificados como (PG - Projetos Genaration) e projetos pessoais meus identificados como (PP - Projetos Pessoais). 🚀 
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em **desenvolvimento backend, APIs e cloud computing**.  
+Tenho formação prática pelo **Bootcamp da Generation Brasil (Full Stack)** e atualmente também estou em formação em **Cloud AWS pela Escola da Nuvem**.
 
-## Habilidades Tecnológicas
+Tenho experiência profissional anterior em **auditoria e análise de processos**, o que fortaleceu minha capacidade analítica, resolução de problemas e visão de negócio — habilidades que aplico no desenvolvimento de soluções tecnológicas.
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+---
 
--  Linguagens de Programação: 
+# 🚀 Tech Stack
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,java)](https://skillicons.dev)
-- Frameworks e Bibliotecas:     
+## 🧠 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-    [![My Skills](https://skillicons.dev/icons?i=angular,vue,next,nestjs,react,nodejs,spring)](https://skillicons.dev)
-- Desenvolvimento Web:
+**Keywords:**  
+`Java` `Spring Boot` `REST APIs` `Backend Development` `Microservices`
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
-- Dados: 
+---
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+## 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,idea)](https://skillicons.dev)
-## Projetos Criativos
+**Keywords:**  
+`JavaScript` `TypeScript` `React` `Frontend Development`
 
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores durante o Bootcamp:
+---
 
-1. [Projeto 1](https://github.com/LucasOMafra/pg-projeto-conta-bancaria): O Projeto Conta Bancária foi desenvolvido como base no aprendizado e aplicação dos conceitos de Programação Orientada a Objetos (POO). Ao longo do curso, o projeto receberá novas funcionalidades em cada etapa, servindo como preparação para o Projeto Final, que consolida todos os conhecimentos adquiridos no primeiro bloco.
+## 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Vamos criar algo incrível! 💫
+**Keywords:**  
+`SQL` `Database Modeling` `Relational Databases`
 
-💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+---
 
- ## Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasOMafra&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
-  />
+## ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOMafra&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+**Keywords:**  
+`Cloud Computing` `AWS` `Containers` `CI/CD` `DevOps`
 
-</p>
+---
+
+## 🧪 API & Testing
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+**Keywords:**  
+`API Testing` `REST Client` `Debugging`
+
+---
+
+# 📚 Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas**
+
+💻 **Generation Brasil**  
+Bootcamp **Full Stack Developer**
+
+☁️ **Escola da Nuvem**  
+Formação **AWS Cloud / Cloud Practitioner / AWS re:Start**
+
+---
+
+# 🎯 Áreas de Interesse
+
+- Backend Development
+- Full Stack Development
+- Cloud Computing
+- APIs e Microservices
+- DevOps
+
+---
+
+# 📊 GitHub Stats
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasOMafra&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOMafra&layout=compact&theme=tokyonight)
+
+---
+
+# 🌎 Conecte-se comigo
+
+💼 LinkedIn  
+🔗 GitHub: https://github.com/LucasOMafra
