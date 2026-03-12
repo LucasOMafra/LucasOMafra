@@ -1,5 +1,3 @@
-# 👨‍💻 Lucas Mafra
-
 💻 **Full Stack Developer | Backend & Cloud Enthusiast**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em **desenvolvimento backend, APIs e cloud computing**.  
