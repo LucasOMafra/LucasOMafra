@@ -7,10 +7,10 @@ Transformando dados em decisões e código em solução 🚀
 
 # Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Python, análise de dados e desenvolvimento backend**.
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Python, análise de dados e desenvolvimento backend**.
 Tenho formação prática pelo **Bootcamp da Generation Brasil (Full Stack)** e atualmente estou em formação em **Cloud AWS pela Escola da Nuvem**.
 
-Tenho experiência profissional anterior em **auditoria e análise de processos**, o que fortaleceu minha capacidade analítica, atenção a detalhes e visão de negócio — habilidades que aplico diretamente na construção de soluções orientadas a dados.
+Tenho experiência profissional anterior em **auditoria e análise de processos**, o que fortaleceu minha capacidade analítica, atenção a detalhes e visão de negócio. O desejo de usar tecnologia para tomar decisões mais inteligentes no dia a dia me redirecionou para o mundo do desenvolvimento — com foco especial em **análise de dados com Python**, onde consigo unir minha bagagem analítica com ferramentas como **Pandas, NumPy e Matplotlib** para construir soluções orientadas a dados.
 
 -----
 
