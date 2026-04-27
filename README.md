@@ -1,9 +1,7 @@
-<h1 align="center">Lucas Mafra 👋</h1>
+# Olá! eu sou o Lucas Mafra 😁
+Full Stack Developer | Python · Data Analysis · Cloud
 
-<p align="center">
-  <b>Full Stack Developer | Python · Data Analysis · Cloud</b><br/>
-  Transformando dados em decisões e código em solução 🚀
-</p>
+Transformando dados em decisões e código em solução 🚀
 
 -----
 
